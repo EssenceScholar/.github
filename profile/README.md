@@ -21,6 +21,10 @@ EssenceScholar connects your research profile to a library of AI agents that rea
 
 `Python · Flask · PostgreSQL · Next.js · TypeScript · Google Gemini · OpenAI · Anthropic Claude · Google Cloud Run`
 
+## Also
+
+**[EssenceTeacher](https://study.essencescholar.com)** — AI-powered teaching and study platform. Students and teachers interact with course materials through a RAG-based canvas: ask questions, get explanations, and explore concepts grounded in the actual syllabus content.
+
 ## Links
 
-🌐 [essencescholar.com](https://essencescholar.com)
+🌐 [essencescholar.com](https://essencescholar.com) &nbsp;·&nbsp; 📚 [study.essencescholar.com](https://study.essencescholar.com)
