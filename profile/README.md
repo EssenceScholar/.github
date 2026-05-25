@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://essencescholar.com/images/logo-large.png" alt="EssenceScholar" width="300"/>
+</p>
+
 # EssenceScholar
 
 **AI-powered research intelligence for economists and business researchers.**
