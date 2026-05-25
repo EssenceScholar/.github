@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://essencescholar.com/images/logo-large.png" alt="EssenceScholar" width="300"/>
-</p>
+
 
 # EssenceScholar
 
